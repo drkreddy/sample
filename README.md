@@ -22,7 +22,7 @@ cd sample
 
 ## Contributing
 
-Contributions are welcome! Please feel free to submit a Pull Request. and tag claude.
+Contributions are welcome! Please feel free to submit a Pull Request. claude.
 
 ## License
 
